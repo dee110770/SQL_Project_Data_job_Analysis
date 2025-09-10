@@ -9,7 +9,6 @@ WITH top_paying_jobs AS (
   SELECT
     job_id,
     job_title,
-    --top_paying_jobs.skills
     salary_year_avg,
     name AS company_name
 FROM job_postings_fact
