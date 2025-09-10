@@ -59,16 +59,19 @@ Here's the breakdown of the top data scientist jobs in 2023:
 
 ## 💼 Top-Paying Data Scientist Roles
 
-| Job Title                                          | Company            | Average Salary (USD) |
-|---------------------------------------------------|---------------------|-----------------------|
-| Staff Data Scientist/Quant Researcher              | Selby Jennings      | 550,000               |
-| Staff Data Scientist - Business Analytics          | Selby Jennings      | 525,000               |
-| Data Scientist                                     | Algo Capital Group  | 375,000               |
-| Director Level - Product Management - Data Science | Teramind            | 320,000               |
-| Distinguished Data Scientist                       | Walmart             | 300,000               |
-| Head of Battery Data Science                       | Lawrence Harvey     | 300,000               |
-| Principal Data Scientist                           | Storm5              | 300,000               |
 
+| job_title                                          | salary_year_avg | company_name       |
+|---------------------------------------------------|-----------------|-------------------|
+| Staff Data Scientist/Quant Researcher              | 550,000         | Selby Jennings     |
+| Staff Data Scientist - Business Analytics          | 525,000         | Selby Jennings     |
+| Data Scientist                                     | 375,000         | Algo Capital Group |
+| Head of Data Science                               | 351,500         | Demandbase         |
+| Head of Data Science                               | 324,000         | Demandbase         |
+| Director Level - Product Management - Data Science | 320,000         | Teramind           |
+| Director of Data Science & Analytics               | 313,000         | Reddit             |
+| Distinguished Data Scientist                       | 300,000         | Walmart            |
+| Head of Battery Data Science                       | 300,000         | Lawrence Harvey    |
+| Director of Data Science                           | 300,000         | Storm4             |
 
 
 2. ### Top Paying Data Scientist Skills
