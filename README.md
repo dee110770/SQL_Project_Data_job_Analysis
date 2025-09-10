@@ -56,8 +56,20 @@ Here's the breakdown of the top data scientist jobs in 2023:
 - **Salary Range:** Top 10 paying data scientist roles span from $300K–$550K indicating significant salary potential in the field
 - **Diverse Employers:** Selby Jennings,Walmart, Reddit,Demandbase are among those offering high salaries,showing a broad interest across different industries.
 - **Job Title Variety:** There's a high diversity in job titles from Data Scientist, Head of data science to Quant Researcher leading the pack.
-![1.Top Paying Roles](assets\output.png)
-*Bar Graph visualizing the salary for the top 10 salaries for data scientist*
+
+## 💼 Top-Paying Data Scientist Roles
+
+| Job Title                                          | Company            | Average Salary (USD) |
+|---------------------------------------------------|---------------------|-----------------------|
+| Staff Data Scientist/Quant Researcher              | Selby Jennings      | 550,000               |
+| Staff Data Scientist - Business Analytics          | Selby Jennings      | 525,000               |
+| Data Scientist                                     | Algo Capital Group  | 375,000               |
+| Director Level - Product Management - Data Science | Teramind            | 320,000               |
+| Distinguished Data Scientist                       | Walmart             | 300,000               |
+| Head of Battery Data Science                       | Lawrence Harvey     | 300,000               |
+| Principal Data Scientist                           | Storm5              | 300,000               |
+
+
 
 2. ### Top Paying Data Scientist Skills
 
@@ -94,8 +106,23 @@ Here's the breakdown of the skillset that is most rewarding in relation to the t
 - **Machine learning Stack:** Tensorflow,Pytorch,Keras,Scikit-learn,Datarobot all appear in roles around $320k, showing strong demand for deep learning and model deployment skills.
 - **Cloud Platforms:** AWS,Azure,GCP are consistently tied to salaries above $300k, reinforcing their importance in scalable data workflows.
 
-![2.Top Job Paying Skills](assets\Top_skills.png)
-*Bar Graph visualizing which technical skills are most financially rewarding in the data science field*
+## 🚀 Top-Paying Data Science Skills (2023)
+
+| Skill       | Average Salary (USD) |
+|------------|------------------------|
+| gdpr       | 217,738                |
+| golang     | 208,750                |
+| atlassian  | 189,700                |
+| selenium   | 180,000                |
+| opencv     | 172,500                |
+| pytorch    | 171,250                |
+| keras      | 165,000                |
+| tensorflow | 162,500                |
+| airflow    | 160,000                |
+| tableau    | 158,750                |
+
+
+
 
 3. ### Top demanding skills in Data science Industry
 This analysis highlights the most in-demand skills for data science roles, with Python and SQL leading the pack. I used this insight to prioritize my learning roadmap and tailor my portfolio toward tools that consistently appear in high-value job listings.
@@ -252,3 +279,5 @@ Throughout this adventure, I've  managed to do a few things such as :
 
 # Conclusions
 This project enhanced my SQL skills and provided valuable insights into the data scientist job market.The findings from the analysis serve as a guide to prioritizing skill development and job search efforts. Aspiring data scientists can better position themselves in a competitive job market by focusing on high-demand, high-alary skills. This exploration highlights the importance of continuous learning and adaptation to emerging trends in the field of data science.
+
+
