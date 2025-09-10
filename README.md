@@ -56,7 +56,6 @@ Here's the breakdown of the top data scientist jobs in 2023:
 - **Salary Range:** Top 10 paying data scientist roles span from $300K–$550K indicating significant salary potential in the field
 - **Diverse Employers:** Selby Jennings,Walmart, Reddit,Demandbase are among those offering high salaries,showing a broad interest across different industries.
 - **Job Title Variety:** There's a high diversity in job titles from Data Scientist, Head of data science to Quant Researcher leading the pack.
-
 ![1.Top Paying Roles](assets\output.png)
 *Bar Graph visualizing the salary for the top 10 salaries for data scientist*
 
